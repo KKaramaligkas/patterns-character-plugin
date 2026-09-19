@@ -1,0 +1,24 @@
+{
+    "name": "Patterns.Character.Editor",
+    "rootNamespace": "Patterns.Character.Editor",
+    "references": [
+        "Patterns.Character"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "",
+            "define": "PATTERNS_INPUTSYSTEM"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,38 @@
+{
+  "name": "com.patterns.character",
+  "version": "0.1.0",
+  "displayName": "Patterns - Character Abilities",
+  "description": "Game-ready, drop-in character framework: pluggable movement abilities (walk, run, sprint, crouch, jump, dash, fly, swim, ladder, glide), a full camera suite (first person, third person orbit, top-down/isometric, 2.5D follow, fixed), animation/audio drivers and an editor rig wizard. Works with zero setup, no third-party packages, and supports both the legacy Input Manager and the new Input System.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "dependencies": {},
+  "keywords": [
+    "character",
+    "controller",
+    "abilities",
+    "movement",
+    "camera",
+    "third person",
+    "first person",
+    "top down",
+    "isometric",
+    "fps",
+    "tps",
+    "locomotion"
+  ],
+  "author": {
+    "name": "Konstantine Karamaligkas",
+    "url": "https://github.com/KKaramaligkas"
+  },
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Basic Usage",
+      "description": "Script-only examples: build a character in code, add custom abilities, and switch camera modes at runtime.",
+      "path": "Samples~/BasicUsage"
+    }
+  ],
+  "documentationUrl": "https://github.com/KKaramaligkas/patterns-character-plugin#readme",
+  "changelogUrl": "https://github.com/KKaramaligkas/patterns-character-plugin/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/KKaramaligkas/patterns-character-plugin/blob/main/LICENSE.md"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Patterns.Character.Editor.Tests",
+    "rootNamespace": "Patterns.Character.Editor.Tests",
+    "references": [
+        "Patterns.Character",
+        "Patterns.Character.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

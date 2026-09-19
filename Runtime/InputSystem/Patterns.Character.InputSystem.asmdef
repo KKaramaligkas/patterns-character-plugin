@@ -1,0 +1,25 @@
+{
+    "name": "Patterns.Character.InputSystem",
+    "rootNamespace": "Patterns.Character.InputSystem",
+    "references": [
+        "Patterns.Character",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "PATTERNS_INPUTSYSTEM"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "",
+            "define": "PATTERNS_INPUTSYSTEM"
+        }
+    ],
+    "noEngineReferences": false
+}
